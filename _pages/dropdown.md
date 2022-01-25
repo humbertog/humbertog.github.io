@@ -1,12 +1,12 @@
 ---
 layout: page
-title: submenus
+title: publications
 nav: true
 dropdown: true
 children: 
-    - title: publications
-      permalink: /publications/
+    - title: scientific articles
+      permalink: /publications_sci/
     - title: divider
-    - title: projects
-      permalink: /projects/
+    - title: opinion & vulgarisation
+      permalink: /publications_rep/
 ---

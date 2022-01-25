@@ -2,23 +2,23 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Data science | mobility | <a href='https://puntodecimal.mx'>Punto Decimal</a>. 
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: yo_colors.jpg
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
-
-news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+    <p>Lyon, FR</p>
+    
+news: false  # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I'm a `data scientist` who has worked in applications in the fields of transportation/mobility, financial risks and the semantic analysis of text. My interests are probabilistic models, Bayesian inference and data visualization. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I received my PhD in `transportation` from the [University of Lyon - ENTPE](https://www.entpe.fr/en), where I worked on predicting travelers’ choices in the context of urban trips: an intersection between economics, statistics and transportation. Also, I hold a European master’s degree on `Data Mining and Knowledge Management` by a [consortium](https://www.em-dmkm.eu) led by the [University of Lyon 2](https://welcome.univ-lyon2.fr) and a bachelor’s degree in `applied mathematics` by the [Instituto Tecnológico Autónomo de México (ITAM)](https://www.itam.mx).
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I'm co-founder, editor and writer at [Punto Decimal MX](https://puntodecimal.mx), a blog (open to anyone who wants to participate) that seeks to understand the current problems of Mexico through the quantitative analysis of public information.
+
+<!-- Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
