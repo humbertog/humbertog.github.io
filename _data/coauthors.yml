@@ -1,18 +1,19 @@
-"Adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"Prieto Curiel":
+  - firstname: ["Rafael", "R."]
+    url: https://rafaelprietocuriel.com
 
-"Podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"Chiabaut":
+  - firstname: ["Nicolas", "N."]
+    url: https://nicolaschiabaut.weebly.com
 
-"Rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"Mariotte":
+  - firstname: ["Guilhem", "G."]
+    url: http://www.guilhemmariotte.com/en/index.html
 
-"Bach": 
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"Leclercq":
+  - firstname: ["Ludovic", "L."]
+    url: https://scholar.google.it/citations?user=4LOaAysAAAAJ&hl=en&oi=ao
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+
+
+  
