@@ -50,7 +50,7 @@ The solution is a highly customizable script, programmed in [R](https://www.r-pr
 
 <div class="row l-body-outset">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/lluvias_reporte_dia.pdf" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/lluvias_reporte_dia.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -59,7 +59,7 @@ The solution is a highly customizable script, programmed in [R](https://www.r-pr
 
 <div class="row l-body-outset">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/lluvias_reporte_mes.pdf" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/lluvias_reporte_mes.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
