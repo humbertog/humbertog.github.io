@@ -2,9 +2,9 @@
 layout: page
 title: projects
 permalink: /projects/
-description: I am currently working on this section, please come back soon...
+description: data science, statistics, data viz..
 nav: true
-display_categories: [work, fun]
+#display_categories: [work, other]
 horizontal: false
 ---
 
