@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /publications_sci/
-title: scientific publications
+title: Scientific publications
 description: list of scientific publications in peer reviewed journals and conferences
 years: [2021, 2020, 2019, 2018, 1935]
 nav: false
@@ -16,7 +16,7 @@ nav: false
 {% endfor %}
 
 
-<h2 class="typeofpub">journal articles & conferences</h2><br><br>
+<h2 class="typeofpub">Journal articles & conferences</h2><br><br>
 
 {%- for y in page.years %}
   <!-- <h2 class="year">{{y}}</h2> -->

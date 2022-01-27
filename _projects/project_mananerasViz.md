@@ -5,6 +5,6 @@ description: Semantic analysis (LDA) and interactive visualizations of the daily
 img: assets/img/mananerasViz.png
 redirect: https://radardemedios.mx/conferencias.html
 importance: 2
-category: work
+category: data science
 ---
 

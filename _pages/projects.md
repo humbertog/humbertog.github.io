@@ -1,10 +1,10 @@
 ---
 layout: page
-title: projects
+title: Projects
 permalink: /projects/
-description: data science, statistics, data viz..
+description: Data science, statistics, data viz..
 nav: true
-#display_categories: [work, other]
+display_categories: [data science]
 horizontal: false
 ---
 

@@ -5,7 +5,7 @@ description: Postdoctoral project in land vehicle tracking from drone videos
 img: assets/img/station_air_1.png
 importance: 1
 #redirect: https://unsplash.com
-category: work
+category: data science
 date: 2021-08-31
 bibliography: stationair.bib
 

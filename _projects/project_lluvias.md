@@ -3,8 +3,8 @@ layout: distill
 title: Lluvias Mexico City
 description: Rainfall interpolation and visualization for the Mexico City Water Management System
 img: assets/img/lluvias_main.png
-importance: 1
-category: work
+importance: 2
+category: data science
 date: 2021-10-01
 bibliography: lluvias.bib
 
