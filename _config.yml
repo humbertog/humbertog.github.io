@@ -82,13 +82,13 @@ panelbear_analytics:  # panelbear analytics site ID (format: XXXXXXXXX)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: PuntoDecimalMx  # your blog must have a name for it to show up in the nav bar
-# blog_description: some ideas...
-# permalink: /blog/:year/:title/
+# blog_name: PuntoDecimalMx  # your blog must have a name for it to show up in the nav bar
+blog_description: some ideas...
+permalink: /blog/:year/:title/
 
-# # Pagination
-# pagination:
-#   enabled: true
+# Pagination
+pagination:
+  enabled: false
 
 # Comments
 # disqus_shortname: al-folio # put your disqus shortname
@@ -153,6 +153,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-target-blank
   - jekyll-twitter-plugin
+  - jekyll-pdf-embed
   - jemoji
 
 # Sitemap settings
