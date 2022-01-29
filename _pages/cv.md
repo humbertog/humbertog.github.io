@@ -1,8 +1,8 @@
 ---
 layout: page
 title: cv
+permalink: /cv/
 nav: true
-pdf_file: "/assets/pdf/cv.pdf"
 ---
 
-{% pdf {{ page.pdf_file }} %}
+{% pdf assets/pdf/cv.pdf %}
