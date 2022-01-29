@@ -4,5 +4,4 @@ title: cv
 permalink: /cv/
 nav: true
 ---
-
-{% pdf assets/pdf/cv.pdf %}
+{% pdf "../assets/pdf/cv.pdf" %}
