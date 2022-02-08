@@ -4,7 +4,7 @@ title: projects
 permalink: /projects/
 description: Data science, statistics, data viz..
 nav: true
-display_categories: [data science]
+display_categories: #[data science]
 horizontal: false
 ---
 
